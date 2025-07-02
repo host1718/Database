@@ -1,6 +1,10 @@
 {
   "tokens": [
     "7976526792:AAHmTLUyisUXUvV1RD0JtkH7YMLzab4gA_0",
-    "7599249777:AAEpg8kSTOQDl34mTVTYeSmkz0MiSp-664U"
+    "7599249777:AAEpg8kSTOQDl34mTVTYeSmkz0MiSp-664U",
+    {
+      "name": "ping",
+      "token": "72822828"
+    }
   ]
 }
