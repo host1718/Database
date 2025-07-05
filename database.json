@@ -1,24 +1,3 @@
 {
-  "tokens": [
-    {
-      "name": "panz ",
-      "token": " 7976526792:AAHmTLUyisUXUvV1RD0JtkH7YMLzab4gA_0"
-    },
-    {
-      "name": "attackkerbot",
-      "token": "8134969558:AAGRm_0ZAN-wK_lWk0sUSJlucjbm-tFEafU"
-    },
-    {
-      "name": "matzz",
-      "token": "8013241148:AAG8GrCnQ0gVudaJVl0sDWZb1LUnD0Gvwbk"
-    },
-    {
-      "name": "panzz",
-      "token": "7549885687:AAHg8zRb5b3qsux2V_o20tybiS1GzGBBhrU"
-    },
-    {
-      "name": "panz",
-      "token": "7599249777:AAEpg8kSTOQDl34mTVTYeSmkz0MiSp-664U"
-    }
-  ]
+  "tokens": []
 }
